@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T14:00:44.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Z5izyZ3FW0R5Rgu34NJ1" version="15.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T14:02:07.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="AyIKRXs7N-S37LEo9aPm" version="15.2.1" type="github">
   <diagram id="Pba-fqwfNRMcpNLTzbvH" name="Page-1">
     <mxGraphModel dx="946" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,12 +82,6 @@
         <mxCell id="JikYC3lgi2VOQGRMZpkm-32" value="Purshase" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="600" y="170" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JikYC3lgi2VOQGRMZpkm-33" value="Purshase" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="600" y="230" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="JikYC3lgi2VOQGRMZpkm-34" value="Purshase" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="540" y="230" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="JikYC3lgi2VOQGRMZpkm-35" value="Review" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="660" y="170" width="85" height="25" as="geometry" />
         </mxCell>
@@ -96,12 +90,6 @@
         </mxCell>
         <mxCell id="JikYC3lgi2VOQGRMZpkm-39" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="60" y="340" width="250" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="JikYC3lgi2VOQGRMZpkm-37" value="Review" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="660" y="241.25" width="85" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="JikYC3lgi2VOQGRMZpkm-38" value="Review" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="660" y="272.5" width="85" height="25" as="geometry" />
         </mxCell>
         <mxCell id="JikYC3lgi2VOQGRMZpkm-42" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="360" width="100" height="40" as="geometry" />
@@ -138,6 +126,12 @@
         </mxCell>
         <mxCell id="JikYC3lgi2VOQGRMZpkm-58" value="&lt;b&gt;Purchase&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#33FFFF;" vertex="1" parent="1">
           <mxGeometry x="394" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JikYC3lgi2VOQGRMZpkm-60" value="Swap" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="230" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JikYC3lgi2VOQGRMZpkm-61" value="Swap" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
