@@ -1,0 +1,17 @@
+SwapShop: Feed your shopaholicism whilst saving the planet
+
+
+•	On landing on the site, there should be a home page, with logo, slogan, image and button to start shopping
+•	Users should be able to view a range of products 
+•	Users should be able to filter products with a range of filters, similar to any online store (e.g. colour, size, type, etc.)
+•	Users should be able to sign up
+•	Users should be able to log in
+•	On signup/login users should be taken to a user page
+•	The user page should display the user’s current amount of credits, purchase history, reviews, avatar, username
+•	Logged in users should be able to make purchases (depending on the amount of credits they have)
+•	Logged in users should be able to swap their products for credits by uploading photos and details of their items
+
+
+
+
+
